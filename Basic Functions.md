@@ -33,3 +33,7 @@
 
 ![](gif/DefineNam1.gif)
 ![](gif/DefineNam2.gif)
+
+> ## General Function used in Descriptive Statistics
+>
+> ![](img/GeneralFunction.png)
